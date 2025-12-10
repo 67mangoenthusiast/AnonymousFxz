@@ -17,10 +17,7 @@ To My Profile:)
 
 ```css
   
-  67 {Kinda}
-  Coder 
-  Use Visual Studio
-  Hacked A Few People Before Lol 
+
 ```
 
 
